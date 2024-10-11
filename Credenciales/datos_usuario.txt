@@ -1,0 +1,6 @@
+Nombre: Esteban
+Edad: 21
+Peso: 78
+Estatura: 175
+Toma Alcohol: Sí
+Fuma: No

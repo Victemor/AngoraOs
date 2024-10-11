@@ -1,0 +1,4 @@
+Desayuno: 1
+Almuerzo: 4
+Cena: 7
+Refrigerio: 11

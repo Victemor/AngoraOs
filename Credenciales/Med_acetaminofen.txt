@@ -1,0 +1,2 @@
+Medicamento: acetaminofen
+Horario: 12:00

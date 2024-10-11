@@ -1,0 +1,2 @@
+Medicamento: dipirona
+Horario: 01:00

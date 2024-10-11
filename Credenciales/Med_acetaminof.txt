@@ -1,0 +1,2 @@
+Medicamento: acetaminof
+Horario: 13:11
